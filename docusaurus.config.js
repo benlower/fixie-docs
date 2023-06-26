@@ -11,14 +11,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.fixie.ai',
+  url: 'https://benlower.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'fixie-ai', // Usually your GitHub org/user name.
+  organizationName: 'benlower', // Usually your GitHub org/user name.
   projectName: 'fixie-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
